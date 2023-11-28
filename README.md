@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Pass callbacks to validator (#7320)
